@@ -71,9 +71,9 @@ This project relies on the following libraries, listed in `requirements.txt`:
 
 Here are a couple of screenshots demonstrating the application:
 
-![Main Chart View](images/candles.png)
+![Main Chart View](candles.png)
 
-![Chart with Trend Lines](images/trend_candles.png)
+![Chart with Trend Lines](trend_candles.png)
 
 *(Remember to adjust the paths `images/candles.png` and `images/trend_candles.png` if you named your image folder something else, and feel free to change the alt text descriptions.)*
 
