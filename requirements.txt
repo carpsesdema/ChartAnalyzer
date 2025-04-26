@@ -1,0 +1,8 @@
+pandas
+numpy
+yfinance
+PyQt6
+pyqtgraph
+pytz
+scipy
+tzlocal

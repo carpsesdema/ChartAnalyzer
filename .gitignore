@@ -1,0 +1,21 @@
+# Ignore the virtual environment directory
+venv/
+.venv/
+
+# Ignore Python bytecode files
+__pycache__/
+*.pyc
+
+# Ignore build artifacts
+dist/
+build/
+*.egg-info/
+
+# Ignore PyCharm-specific files
+.idea/
+
+# Ignore operating system temporary files
+*.swp
+*~
+.DS_Store # macOS
+Thumbs.db # Windows
