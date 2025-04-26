@@ -19,7 +19,7 @@ This is a Python application built using PyQtGraph that allows users to fetch an
 
 1.  **Clone the repository:**
     ```bash
-    git clone [Paste your GitHub repository URL here]
+    git clone https://github.com/carpsesdema/ChartAnalyzer
     cd Chart_pull
     ```
 2.  **Create and activate a virtual environment:**
