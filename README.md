@@ -75,8 +75,6 @@ Here are a couple of screenshots demonstrating the application:
 
 ![Chart with Trend Lines](trend_candles.png)
 
-*(Remember to adjust the paths `images/candles.png` and `images/trend_candles.png` if you named your image folder something else, and feel free to change the alt text descriptions.)*
-
 ## License
 
 This project is licensed under the Apache License 2.0 - see the [LICENSE](LICENSE) file for details.
