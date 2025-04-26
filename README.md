@@ -19,7 +19,7 @@ This is a Python application built using PyQtGraph that allows users to fetch an
 
 1.  **Clone the repository:**
     ```bash
-    git clone https://github.com/carpsesdema/ChartAnalyzer
+    git clone [https://github.com/carpsesdema/ChartAnalyzer](https://github.com/carpsesdema/ChartAnalyzer)
     cd Chart_pull
     ```
 2.  **Create and activate a virtual environment:**
@@ -66,6 +66,16 @@ This project relies on the following libraries, listed in `requirements.txt`:
 * Click "Find Trends" to display potential trend lines.
 * Click "Export View" to save the current chart view as an image.
 * Use the "Generate Playback" tool to create an animated GIF or video of the price history.
+
+## Screenshots
+
+Here are a couple of screenshots demonstrating the application:
+
+![Main Chart View](images/candles.png)
+
+![Chart with Trend Lines](images/trend_candles.png)
+
+*(Remember to adjust the paths `images/candles.png` and `images/trend_candles.png` if you named your image folder something else, and feel free to change the alt text descriptions.)*
 
 ## License
 
